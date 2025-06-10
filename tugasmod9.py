@@ -1,24 +1,3 @@
-# import os
-# from termcolor import colored, cprint
-# for i in range (3):
-#     cprint(" "*20, 'red', 'on_red', end="")
-#     cprint(" "*10, 'green', 'on_green', end="")
-#     print()
-# for i in range (3):
-#     cprint(" "*10, 'white', 'on_blue', end="")
-#     cprint(" "*10, 'white', 'on_yellow', end="")
-#     print()
-
-# import os
-# from termcolor import colored, cprint
-# os.system('cls')
-# for i in range (3):
-#     cprint(" "*20, 'white', 'on_red', end="")
-#     print()
-# for i in range (3):
-#     cprint(" "*20, 'white', 'on_white', end="")
-#     print()
-
 import os 
 from termcolor import colored, cprint
 os.system('cls')
@@ -34,5 +13,18 @@ for j in range (3):
 for j in range (10):
     cprint(" "*1, 'white', 'on_black', end="")
     print()
+# import os
+# from termcolor import colored, cprint
+# for i in range (3):
+#     cprint(" "*20, 'red', 'on_red', end="")
+#     cprint(" "*10, 'green', 'on_green', end="")
+#     print()
+# for i in range (3):
+#     cprint(" "*10, 'white', 'on_blue', end="")
+#     cprint(" "*10, 'white', 'on_yellow', end="")
+#     print()
+
+
+
 
 
