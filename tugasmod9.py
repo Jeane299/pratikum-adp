@@ -2,16 +2,16 @@ import os
 from termcolor import colored, cprint
 os.system('cls')
 for j in range (3):
-    cprint(" "*1, 'white', 'on_black', end="")
+    cprint("|", 'white', 'on_black', end="")
     cprint(" "*20, 'white', 'on_red', end="")
     print()
 for j in range (3):
-    cprint(" "*1, 'white', 'on_black', end="")
+    cprint("|", 'white', 'on_black', end="")
     cprint(" "*20, 'white', 'on_white', end="")
     print()
 
 for j in range (10):
-    cprint(" "*1, 'white', 'on_black', end="")
+    cprint("|", 'white', 'on_black', end="")
     print()
 # import os
 # from termcolor import colored, cprint
@@ -23,8 +23,5 @@ for j in range (10):
 #     cprint(" "*10, 'white', 'on_blue', end="")
 #     cprint(" "*10, 'white', 'on_yellow', end="")
 #     print()
-
-
-
 
 
